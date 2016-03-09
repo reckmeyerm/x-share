@@ -1,3 +1,6 @@
+
+-----------WEB PLATFORM-----------
+
 www.leihdirwas.de
 	-11 Kategorien.
     	+Bücher
@@ -80,4 +83,5 @@ www.frents.com
 www.allenachbarn.de
 	-Nachbarschaftscommunity
 	-Leihbörse, Talentbörse, Freizeitbörse, Neuigkeiten
+-------------------------------------------------------------
 		
