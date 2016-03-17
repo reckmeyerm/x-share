@@ -1,1 +1,1 @@
-Wir wollen eine Endanwendung anbieten die es ermöglicht Dinge anderen Mitgliedern zum Verleih anzubieten und selbst auszuleihen.
+﻿Wir wollen eine Endanwendung anbieten die es ermöglicht Dinge anderen Mitgliedern der Community zum Verleih anzubieten und selbst Dinge auszuleihen.
