@@ -1,3 +1,4 @@
 Favoriten ( Produkte für wiederholte Ausleihe speichern )
 Bewertungen validieren ( Missbrauch ausschließen Wiederholen beobachten )
 Unangemessene Inhalte im Chat melden
+Bei Standorteingabe werden per Default die Adressedaten des Benutzer übernommen
