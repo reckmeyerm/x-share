@@ -1,0 +1,6 @@
+Kennt Ihr das? Ihr möchtet etwas Aufhängen, aber dann merkt ihr, dass euch die Bohrmaschiene zum Löcherbohren fehlt. 
+Es kommt so häufig vor, dass man ein bestimmtes Produkt benötigt, es sich aber nicht lohnt sich dieses anzuschaffen, weil man es nur seltten Benutzt oder schlichtweg zu teuer ist.
+Auf der anderen Seite gibt es Leute, die diese Produkte besitzen, sie aber die meiste Zeit nicht verwenden. 
+Es wäre doch schön, wenn die Leute, die es haben, aber gerade nicht brauchen, den Leuten, die es brauchen aber nicht haben helfen.
+An dieser Stelle setzt unsere Endanwendung an: Wir möchten zwischen diesen beiden Parteien vermitteln. Mit unserer Endanwendunkann jeder ganz einfach seine verfügbaren Produkte zum Verleih anbieten.
+Im gegenzug kann man von anderen Personen in der Umgebung deren Produkte ausleihen.  
