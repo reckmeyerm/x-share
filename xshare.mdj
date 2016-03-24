@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Untitled",
+	"name": "xshare",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -9,7 +9,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Model",
+			"name": "Usecases",
 			"ownedElements": [
 				{
 					"_type": "UMLClassDiagram",
@@ -23,6 +23,16 @@
 				}
 			],
 			"visibility": "public"
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFTqLvK1j1IiRA=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Klassendiagramme",
+			"visibility": "public"
 		}
-	]
+	],
+	"author": "Team Betta"
 }
