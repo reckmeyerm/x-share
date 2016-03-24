@@ -1,0 +1,7 @@
+Product Owner: 	Steffen Weinstein
+
+Scrum Master: 	Christine Krüger
+
+Developer:	Matthias Reckmeyer
+		Cihan Aktas
+		Julian Diehlmann
