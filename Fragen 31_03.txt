@@ -1,0 +1,5 @@
+- include für "Benutzer sperren" & "Benutzer löschen" / zeitliche Abfolge
+- Beziehungen von Subjects untereinander
+- Abstrakter Actor
+- Bewertungssystem Use-Case Name "Benutzer melden" oder "Angemeldeten Benutzer melden"
+- Vererbungshierachie Benutzer
