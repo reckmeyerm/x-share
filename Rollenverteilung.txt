@@ -1,7 +1,6 @@
 Product Owner: 	Steffen Weinstein
-
 Scrum Master: 	Christine Krüger
 
-Developer:	Matthias Reckmeyer
-		Cihan Aktas
+Lead Developer:	Matthias Reckmeyer
+Developer:	Cihan Aktas
 		Julian Diehlmann
