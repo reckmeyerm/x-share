@@ -1,4 +1,27 @@
+-----------Applikation------------
 
+Share Apps (Android App)
+
+	eine Applikation, wo man seine Applikationen mit anderen austauschen kann.
+
+Letgo (Android App)
+	
+ 	eine Applikation, wo man seine gebrauchte Produkte anderen verkaufen kann oder gebrauchte Produkte kaufen kann
+ 	Suche erfolgt in die Nachbarschaft
+ 
+Shpock Flohmarkt Kleinanzeigen (Android App)
+	
+	Ähnliche Konzept wie Flohmarkt. Man kann gebrauchte Produkte kaufen oder verkaufen
+
+Kleidung aus zweiter Hand (Android App)
+	
+	Gebrauchte Kleidung werden gekauft oder verkauft.
+	Suche kann europaweite gemacht werden
+	
+Gebrauchte Möbel (Android App)
+	
+	Eine Applikation, wo man seine gebrauchte Möbel verkaufen kann.
+	Suche innerhalb Europa möglich
 -----------WEB PLATFORM-----------
 
 www.leihdirwas.de
