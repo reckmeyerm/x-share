@@ -16,12 +16,28 @@ Steakholder:
 		Vorallem diesen Menschen soll die Applikation ermöglichen, solche Produkte kostenlos für einen bestimmten Zeitraum zu erhalten. 
 		Trotzdem kann die Applikation für jeden ab 18 Jahre (Unbeschränkte Geschäftsfähigkeit) verwendet werden. 
 
-Product Owner:
+Product Owner: 	Steffen Weinstein hat die Rolle des Product Owners übernommen. Aus den Gesprächen mit dem Kunde und dem Entwicklungsteam hat er die Aufgaben für das Product Backlog abgeleitet.
+		Diese Aufgaben hat er priorisiert und den Sprints zugeteilt. Zusätzlich hat er die Steakholder in den Meetings vertreten und hat die Rückfragen des Entwicklerteams beantwortet.
 (Bild)
 
-Scrum Master:
+Scrum Master:	Christine Krüger hat die Rolle des Scrum Masters übernommen. Sie hat die organisation der Meetings übernommen und diese dann moderiert. 
+		Zusätzlich hat sie dafür gesort, dass der Informationsaustausch zwischen den Product Owner und dem Entwicklungsteam stattfindet.
+		Und sie hat dafür gesorgt, dass die Regeln des Scrums von allen Beteiligten eingehalten wurden. 
+		 
 (Bild)
 
-Entwicklungsteam:
+Entwicklungsteam: Das Entwicklungsteam, bestehend aus Cihan Aktas, Matthias Reckenmayer und Julian Diehlmann, hat sich um die fristgerechte Umsetzung der Aufgaben gekümmert.
 (3x Bild) 
+
+Vorgehensweise:
+Es ist fesgelegt worden, dass ein Sprint eine Woche lang dauert und er immer Donnerstag Nachmittags, nach dem Meeting mit dem Kunden, beginnt.
+Vor dem Beginn eines neuen Sprints wird in einem Meeting der kommende Sprint geplant. 
+Aus dem Produktbacklog, das während dem Meeting mit dem Kunden mit neuen Aufgaben gefüllt wurde, werden die Aufgaben die in diesem Sprint abgearbeitet werden können ausgewählt.
+Die ausgewählten Aufgaben werden einem Entwickler zugewiesen und dieser schätz die benötigte Zeit, die er für die Aufgabe braucht.
+Nach dem Meeting wird der Sprint gestartet, dies bedeutet, dass jeder Entwickler an seinen zugeteilten Aufgaben startet. 
+Der Beginn und die Vollendung einer Aufgabe wird unverzüglich im Scrumprogramm eingetragen. So erhält der Scrum Master ein Burndon-Diagramm, an dem er den Zeitlichen Rahmen übersichtlich im Blick hat. 
+Zusätzlich wird durch regelmäßige Kurzmeetings mit dem Scrum Master, bei denen jeder kurz vorstellt, wie weit er mit seiner Aufgabe ist und wo es vielleicht zu Problemen kommen könnte,
+sicher gestellt, dass alle Aufgaben des Sprints pünktlich zum Ende des Sprints vollendet werden. Mögliche Probleme wurden in Teamarbeit gelöst.   
+ 
+ 
    
