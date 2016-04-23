@@ -1,0 +1,27 @@
+Vorgehensmodell
+
+Team Beta hat sich dafür entschieden, dass die Applikation xShare mit dem Vorgehensmodell SCRUM entwickelt wird.
+Zu dieser Entscheidung kam es, da Scrum die benötigte flexibilität und kundennähe bietet, die anderen Modelle nicht haben.
+Die Flexibilität wird benötigt, da die Applikation ständig in Form von Releases verbessert werden muss. 
+Im ersten Release sind nur die Features implementiert, die für die Applikation wirklich notwendig sind. 
+In jedem weiteren Release werden dann neue Features hinzugefügt und entdeckte Bugs entfernt.
+So erhält man bereits nach kurzer Entwicklungszeit eine funktionsfähige Applikation, die dann Stück für Stück verbessert wird. 
+Da man nach jedem Sprint ein funktionsfähiges Ergebnis hat, kann man dieses dem Kunden präsentieren.
+Durch die Überprüfung der Funktionalität durch den Kunden und der daraus resultierenden Rückmeldung, können im folgenden Sprint Anpassungen vorgenommern werden.    
+So ist der Kunde immer auf dem neusten Stand und das Team Beta kann auf die Kundenwünsche eingehen.
+
+Steakholder:
+  -Kunde: 	Miroslav Juric ist der Kunde von Team Beta. Er bestellte eine Endanwendung, die den Anwendern das Verleihen und Ausleihen verschiedener Produkte ermöglicht.
+  -Anwender: 	Als Hauptzielgruppe wurden jüngere Menschen ausgewählt, die sich Produkte, die sie nur selten verwenden, nicht leisten möchten. 
+		Vorallem diesen Menschen soll die Applikation ermöglichen, solche Produkte kostenlos für einen bestimmten Zeitraum zu erhalten. 
+		Trotzdem kann die Applikation für jeden ab 18 Jahre (Unbeschränkte Geschäftsfähigkeit) verwendet werden. 
+
+Product Owner:
+(Bild)
+
+Scrum Master:
+(Bild)
+
+Entwicklungsteam:
+(3x Bild) 
+   
