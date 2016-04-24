@@ -38148,7 +38148,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "Suche_Ausleihen_Bewerten",
 					"visible": true,
 					"defaultDiagram": false,
 					"ownedViews": [
