@@ -1,0 +1,12 @@
+Inhaltlich:
+- Einleitungssatz bei Produkt-Userstory 
+- benutzerfreundlichkeit entfernen
+- Aktöör !Übersicht!
+- Endanwendung verwalten oder Endanwendungverwaltung
+
+
+optisch:
+- logo oben links (Kopfzeile) platzieren, auch auf jeder Seite
+- Abbildungsbeschriftung linksbündig
+- Use-Case der Benutzerverwaltung 
+- Bilder sind nicht zentral!
