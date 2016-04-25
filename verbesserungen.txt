@@ -12,3 +12,6 @@ optisch:
 - Abbildungsbeschriftung linksbündig
 - Use-Case der Benutzerverwaltung (Bindestriche weg und durch der ersetzen)
 
+Einleitung:
+- xShare nicht X-Share
+- für wen ist xShare: Vorallem Junge Menschen (18+) mit wenig geld
