@@ -4,6 +4,8 @@ Inhaltlich:
 - Aktöör !Übersicht!
 - Tabellenbeschriftungen(Usecasebeschreibungen)
 - Team Betta bestehend aus..
+- Usecase IDs überprüfen
+- Reihenfolge: Aktööre, Suche, Ausleih, Verleih
 
 
 optisch:
