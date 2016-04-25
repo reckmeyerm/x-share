@@ -1,12 +1,12 @@
 Inhaltlich:
-- Einleitungssatz bei Produkt-Userstory 
+- Einleitungssatze
 - benutzerfreundlichkeit entfernen
 - Aktöör !Übersicht!
-- Endanwendung verwalten oder Endanwendungverwaltung
+- Tabellenbeschriftungen(Usecasebeschreibungen)
+- Team Betta bestehend aus..
 
 
 optisch:
-- logo oben links (Kopfzeile) platzieren, auch auf jeder Seite
 - Abbildungsbeschriftung linksbündig
-- Use-Case der Benutzerverwaltung 
-- Bilder sind nicht zentral!
+- Use-Case der Benutzerverwaltung (Bindestriche weg und durch der ersetzen)
+
