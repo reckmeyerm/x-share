@@ -30,4 +30,4 @@ Zum einen muss sichergestellt werden, dass keine Produkte mehr ausgeliehen sind.
 Dies wird erreicht, indem man den Anwendern eine Nachricht in der Applikation zukommen lässt, die die nächsten Schritte und was es zu beachten gibt erklärt.
 Außerdem wird eine letzte neue Version veröffentlicht, bei der die Ausleihfunktion deaktiviert wurde.
 Danach kann die App noch bis zum Ablauf der letzten Ausleihfrist verwendet werden.
-Dann wird der Sever abgestellt und die Datenbank archiviert.  	 
+Dann wird der Sever abgestellt und alles archiviert.  	 
