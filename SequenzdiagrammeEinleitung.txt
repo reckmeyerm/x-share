@@ -1,0 +1,7 @@
+Im Folgenden Kapitel sind die Sequnenzdiagramme der Suche und der Ausleihe zu sehen.
+Sie stellen die Interaktionen der verschiedenen Klassen grafisch dar.
+
+Da ein Sequenzdiagramm immer nur einen Weg des entscheidungsbaunes darstellt, 
+wurden für die Ausleihe zwei Diagramme erstellt. 
+Zum einen für denn Fall, dass ein Benutzer die Abfrage annimmt und zum anderen, dass er sie ablehnt.
+   

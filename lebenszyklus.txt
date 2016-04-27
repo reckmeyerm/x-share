@@ -1,0 +1,33 @@
+Software-Lebenszyklus
+
+Softwarelösungen, wie unsere Applikation, folgen einem Lebenszyklus. 
+Bei unserer Applikation xShare benötigen folgende drei Phasen ein erhöhtes Augenmerk.
+
+(Entwicklungsphase?)
+
+Phase 1: Innbetriebnahme
+Der Erfolg von xShare wird über die größe seiner Community definiert.
+Erst durch eine große Anzahl an Nutzern kann gewährleistet werden, dass es ein ausreichendes Angebot von Produkten gibt.
+Bei der Innbetriebnahme ist aber noch keine Community vorhanden.
+Da der Aufbau einer solchen Community Zeit benötigt, veröffenlichen wir zuerst eine Beta Version.
+Diese enthält nur die Features, die die Anwendung wirklich benötigt. 
+So können bereits die ersten Nutzer Kontakt mit der App machen.
+Dadurch ist dann beim ersten Release schon eine Communitiy vorhanden.    
+
+Phase 2: Betrieb und Wartung
+Um die Applikation möglichst schnell veröffentlichen zu können, werden bei dem ersten Release nicht alle Features implementiert.
+Die restlichen Features werden stückchenweise in neuen Versionen implementiert.
+Zusätzlich wird auf die Reaktionen der Anwender reagiert und dementsprechende Verbesserungen und Bugbehebungen vorgenommen.
+So entsteht eine kundennahe Applikation. 
+
+Neben der Applikation muss auch ein Server mit einer Datenbank betrieben werden. 
+Zum einen muss regelmäßig die Kapazität des Servers überprüft werden und diese bei falscher größe entsprechend Angepasst werden.
+Zum anderen müssen die Daten reduntant gespeichert werden, zum Beispiel in Form eines Backups, damit es zu keinem Verlust der Daten kommt.   
+
+Phase 3: Außerbetriebnahme
+Sollte xShare aus irgendwelchen Gründen irgendwann Außerbetrieb genommen werden, müssen dabei auf einige Dinge geachtet werden:
+Zum einen muss sichergestellt werden, dass keine Produkte mehr ausgeliehen sind. 
+Dies wird erreicht, indem man den Anwendern eine Nachricht in der Applikation zukommen lässt, die die nächsten Schritte und was es zu beachten gibt erklärt.
+Außerdem wird eine letzte neue Version veröffentlicht, bei der die Ausleihfunktion deaktiviert wurde.
+Danach kann die App noch bis zum Ablauf der letzten Ausleihfrist verwendet werden.
+Dann wird der Sever abgestellt und die Datenbank archiviert.  	 

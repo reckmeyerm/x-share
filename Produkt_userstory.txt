@@ -1,0 +1,3 @@
+Aus dem Brainstormign, dass in Abbildung xy zu sehen ist, haben wir die Produkt-Userstory abgeleitet.
+Dazu haben wir daraus die relevanten Puntkte abstrahiert und sie aus der Sicht der unterschiedlichen Anwender formuliert.
+Dadurch haben wir eine Übersicht der Features und den dazugehörigen Anwender erhalten. 
